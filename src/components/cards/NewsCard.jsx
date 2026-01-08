@@ -10,18 +10,16 @@ export default function NewsCard({
   return (
     <div
       className="
-        bg-white
-        border
-        border-[#D2D6DB]
-        rounded-2xl
-        w-full
-        max-w-full
-        h-[530px]
-        p-6
-        flex
-        flex-col
-        text-right
-      "
+    bg-white
+    border border-[#D2D6DB]
+    rounded-2xl
+    w-full
+    max-w-full sm:max-w-[410px]
+    min-h-[530px]
+    p-6
+    flex flex-col
+    text-right
+  "
     >
       <div className="w-full h-[278px] rounded-md bg-[#F3F3F3] flex items-center justify-center">
         <img

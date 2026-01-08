@@ -12,6 +12,8 @@ export default function ControlsBar({
       className="
         flex
         flex-col
+        items-end
+        text-right
         lg:flex-row-reverse
         md:items-end
         lg:justify-between

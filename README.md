@@ -1,7 +1,7 @@
 # UI Task – News Module (React + Redux)
 
 ## Live Demo
-http://ui-task-react.vercel.app/
+https://ui-task-react.vercel.app/
 
 ---
 
